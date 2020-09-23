@@ -14,8 +14,9 @@ public class CalculatorTest_2 {
           }
     }
 
-    @Test public void TestingMainFunction(){
-        Calculator.main(null);
-    }
+    // @Test public void TestingMainFunction(){
+    //     Calculator.main(null);
+    // }
+    // This is use for testing 
 }
 
