@@ -1,3 +1,2 @@
-# SOFT2412
-This is a repo for Class SOFT2412
-#1 calculator
+# SOFT2412 calculator
+This is a repo for SOFT2412 calculator program
